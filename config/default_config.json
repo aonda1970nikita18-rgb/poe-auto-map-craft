@@ -1,0 +1,389 @@
+{
+  "window_title_substrings": [
+    "Path of Exile"
+  ],
+  "stash": {
+    "left": 0.007954545454545455,
+    "top": 0.12361111111111112,
+    "width": 0.3340909090909091,
+    "height": 0.5888888888888889,
+    "columns": 12,
+    "rows": 12
+  },
+  "inventory": {
+    "left": 0.6601325757575758,
+    "top": 0.5412037037037037,
+    "width": 0.33181818181818185,
+    "height": 0.24537037037037038,
+    "columns": 12,
+    "rows": 5
+  },
+  "search_bar": {
+    "left": 0.08,
+    "top": 0.08,
+    "width": 0.25,
+    "height": 0.03
+  },
+  "currency_mode": "fixed",
+  "fixed_currency_slots": {
+    "scouring": [
+      [
+        0,
+        0,
+        30
+      ],
+      [
+        1,
+        0,
+        30
+      ],
+      [
+        2,
+        0,
+        30
+      ],
+      [
+        3,
+        0,
+        30
+      ],
+      [
+        4,
+        0,
+        30
+      ],
+      [
+        0,
+        1,
+        30
+      ],
+      [
+        1,
+        1,
+        30
+      ],
+      [
+        2,
+        1,
+        30
+      ],
+      [
+        3,
+        1,
+        30
+      ],
+      [
+        4,
+        1,
+        30
+      ],
+      [
+        0,
+        2,
+        30
+      ],
+      [
+        1,
+        2,
+        30
+      ],
+      [
+        2,
+        2,
+        30
+      ],
+      [
+        3,
+        2,
+        30
+      ],
+      [
+        4,
+        2,
+        30
+      ],
+      [
+        0,
+        3,
+        30
+      ],
+      [
+        1,
+        3,
+        30
+      ],
+      [
+        2,
+        3,
+        30
+      ],
+      [
+        3,
+        3,
+        30
+      ],
+      [
+        4,
+        3,
+        30
+      ],
+      [
+        0,
+        4,
+        30
+      ],
+      [
+        1,
+        4,
+        30
+      ],
+      [
+        2,
+        4,
+        30
+      ],
+      [
+        3,
+        4,
+        30
+      ],
+      [
+        4,
+        4,
+        30
+      ]
+    ],
+    "alchemy": [
+      [
+        5,
+        0,
+        20
+      ],
+      [
+        6,
+        0,
+        20
+      ],
+      [
+        7,
+        0,
+        20
+      ],
+      [
+        8,
+        0,
+        20
+      ],
+      [
+        9,
+        0,
+        20
+      ],
+      [
+        10,
+        0,
+        20
+      ],
+      [
+        11,
+        0,
+        20
+      ],
+      [
+        5,
+        1,
+        20
+      ],
+      [
+        6,
+        1,
+        20
+      ],
+      [
+        7,
+        1,
+        20
+      ],
+      [
+        8,
+        1,
+        20
+      ],
+      [
+        9,
+        1,
+        20
+      ],
+      [
+        10,
+        1,
+        20
+      ],
+      [
+        11,
+        1,
+        20
+      ],
+      [
+        5,
+        2,
+        20
+      ],
+      [
+        6,
+        2,
+        20
+      ],
+      [
+        7,
+        2,
+        20
+      ],
+      [
+        8,
+        2,
+        20
+      ],
+      [
+        9,
+        2,
+        20
+      ],
+      [
+        10,
+        2,
+        20
+      ],
+      [
+        11,
+        2,
+        20
+      ],
+      [
+        5,
+        3,
+        20
+      ],
+      [
+        6,
+        3,
+        20
+      ],
+      [
+        7,
+        3,
+        20
+      ],
+      [
+        8,
+        3,
+        20
+      ],
+      [
+        9,
+        3,
+        20
+      ],
+      [
+        10,
+        3,
+        20
+      ],
+      [
+        11,
+        3,
+        20
+      ],
+      [
+        5,
+        4,
+        20
+      ],
+      [
+        6,
+        4,
+        20
+      ],
+      [
+        7,
+        4,
+        20
+      ],
+      [
+        8,
+        4,
+        20
+      ],
+      [
+        9,
+        4,
+        20
+      ],
+      [
+        10,
+        4,
+        20
+      ],
+      [
+        11,
+        4,
+        20
+      ]
+    ]
+  },
+  "currency_stack_fallback": {
+    "scouring": 30,
+    "alchemy": 20,
+    "use_when_unread": true
+  },
+  "currency_slots": {
+    "scouring": null,
+    "alchemy": null
+  },
+  "detection": {
+    "empty_brightness_max": 22,
+    "cell_texture_std_min": 11,
+    "gray_saturation_max": 38,
+    "stash_gray_value_max": 78,
+    "stash_ready_value_min": 86,
+    "stash_ready_saturation_min": 44,
+    "highlight_saturation_min": 50,
+    "scouring_saturation_max": 65,
+    "scouring_value_min": 120,
+    "alchemy_hue_min": 12,
+    "alchemy_hue_max": 35,
+    "alchemy_saturation_min": 95,
+    "orb_min_score": 0.09,
+    "orb_score_min": 0.09
+  },
+  "delays_ms": {
+    "min": 25,
+    "max": 50
+  },
+  "click_jitter_px": {
+    "min": 1,
+    "max": 4
+  },
+  "inventory_probe": {
+    "enabled": true,
+    "hover_wait_ms": 380,
+    "hover_settle_ms": 120,
+    "tooltip_offset_x": 20,
+    "tooltip_offset_y": -140,
+    "tooltip_width": 450,
+    "tooltip_height": 240
+  },
+  "stash_recheck_delays_ms": [
+    0,
+    80,
+    160
+  ],
+  "action_wait_after_currency_ms": 25,
+  "action_wait_after_craft_ms": 25,
+  "emergency_hotkey": "f12",
+  "release_cursor_on_stop": true,
+  "release_cursor_escape_presses": 2,
+  "run_validation_on_first_map": true,
+  "max_craft_iterations_per_map": 200,
+  "pyautogui_pause": 0.05
+}
